@@ -1,7 +1,7 @@
 gradio
-pandas
 scikit-learn
+pandas
 joblib
 numpy
+matplotlib
 seaborn
-matplotlib.pyplot
